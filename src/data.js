@@ -7,7 +7,8 @@ const data = [
     email:"lgove0@acquirethisname.com",
     gender:"Female",
     category: "Good-robots",
-    Avatar:"https://robohash.org/quisdistinctionemo.jpg?size=200x200&set=set1"
+    Avatar:"https://robohash.org/quisdistinctionemo.jpg?size=200x200&set=set1",
+    social_info: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     },
 
     {
@@ -16,7 +17,8 @@ const data = [
     email:"agiacomi1@ow.ly",
     gender:"Female",
     category: "Good-robots",
-    Avatar:"https://robohash.org/repellatofficiisquia.jpg?size=200x200&set=set1"
+    Avatar:"https://robohash.org/repellatofficiisquia.jpg?size=200x200&set=set1",
+    social_info: "Aliquid eligendi non enim reiciendis exercitationem ad.",
     },
 
     {
@@ -26,7 +28,8 @@ const data = [
     email:"veblein2@fotki.com",
     gender:"Male",
     category: "Good-robots",
-    Avatar:"https://robohash.org/voluptatumidet.jpg?size=200x200&set=set1"
+    Avatar:"https://robohash.org/voluptatumidet.jpg?size=200x200&set=set1",
+    social_info: "Quidem itaque pariatur autem voluptatem.",
     },
 
     {
@@ -36,7 +39,8 @@ const data = [
     email:"mschoenleiter3@studiopress.com",
     gender:"Female",
     category: "Bad-robots",
-    Avatar:"https://robohash.org/iustoidvoluptatem.jpg?size=200x200&set=set1"
+    Avatar:"https://robohash.org/iustoidvoluptatem.jpg?size=200x200&set=set1",
+    social_info: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     },
 
     {
@@ -46,7 +50,8 @@ const data = [
     email:"cfilip4@nyu.edu",
     gender:"Female",
     category: "Bad-robots",
-    Avatar:"https://robohash.org/impeditnecessitatibusad.jpg?size=200x200&set=set1"
+    Avatar:"https://robohash.org/impeditnecessitatibusad.jpg?size=200x200&set=set1",
+    social_info: "Commodi repellat et, iure nobis maiores, dolores facilis, est ut!.",
     },
 
     { 
@@ -56,7 +61,8 @@ const data = [
     email:"tmacquist5@delicious.com",
     gender:"Male",
     category: "Bad-robots",
-    Avatar:"https://robohash.org/sediuresoluta.jpg?size=200x200&set=set1"
+    Avatar:"https://robohash.org/sediuresoluta.jpg?size=200x200&set=set1",
+    social_info: "Adipisicing elit. Aliquid eligendi non enim reiciendis.",
     },
 
     {
@@ -66,7 +72,8 @@ const data = [
     email:"ewimmer6@360.cn",
     gender:"Male",
     category: "Neutra-robots",
-    Avatar:"https://robohash.org/etconsequaturrecusandae.jpg?size=200x200&set=set1"
+    Avatar:"https://robohash.org/etconsequaturrecusandae.jpg?size=200x200&set=set1",
+    social_info: "Iure nobis maiores, dolores facilis, est ut.",
     },
 
     {
@@ -76,7 +83,8 @@ const data = [
     email:"emattersley7@huffingtonpost.com",
     gender:"Male",
     category: "Neutra-robots",
-    Avatar:"https://robohash.org/autnatusperferendis.jpg?size=200x200&set=set1"
+    Avatar:"https://robohash.org/autnatusperferendis.jpg?size=200x200&set=set1",
+    social_info: "Reiciendis exercitationem ad quidem itaque."
     },
 
     {
@@ -86,7 +94,8 @@ const data = [
     email:"dtrillo8@twitpic.com",
     gender:"Female",
     category: "Neutra-robots",
-    Avatar:"https://robohash.org/nihilquiquo.jpg?size=200x200&set=set1"
+    Avatar:"https://robohash.org/nihilquiquo.jpg?size=200x200&set=set1",
+    social_info: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     },
 
     {
@@ -96,7 +105,8 @@ const data = [
     email:"spluvier9@ted.com",
     gender:"Female",
     category: "Alone-robot",
-    Avatar:"https://robohash.org/architectonemoaccusantium.jpg?size=200x200&set=set1"
+    Avatar:"https://robohash.org/architectonemoaccusantium.jpg?size=200x200&set=set1",
+    social_info: "Commodi repellat et, iure nobis maiores, dolores facilis, est ut.",
     }
 ]
 
