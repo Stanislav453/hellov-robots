@@ -13,8 +13,8 @@ const MyList = ({ dataForList }) => {
                         </div>
                         <div className="info-container">
                             <h2>{first_name}  {last_name}</h2>
+                            <h4>{gender}</h4>
                             <h3><a href={`mailto:${email}`}>{email}</a></h3> 
-                            <h4>Gender: {gender}</h4>
                             <p><strong>Social info:</strong> {social_info}</p>
                         </div>
                     </article>
