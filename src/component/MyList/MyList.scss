@@ -52,3 +52,40 @@ img {
 .avatar {
     border: 5px dotted $--Main-text-color;
 }
+
+
+@media ( max-width: 1300px ) {
+
+    .list-constainer {
+        margin-top: 5%;
+    }
+
+
+    .article-container {
+        width: 100%;
+
+    }
+
+    img {
+        width: 120px;
+        height: 100px;
+    }
+
+    h2,h3,h4 {
+        font-size: 1em;
+        margin: 0;
+    }
+
+    a {
+        color: black;
+        font-size: .6em;
+    }
+
+    p {
+        width: 100%;
+        font-size: .8em;
+        margin-top: 5px;
+    }
+
+
+}
